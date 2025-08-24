@@ -3,7 +3,7 @@
 <ul>
 <li> 📫 How to reach me <a href="mailto:satapathykeshariutkala@gmail.com"> satapathykeshariutkala@gmail.com</a></li>
 <br>
-<li>⚡ Fun fact **I Love Gaming**</li>
+<li>⚡ Fun fact I Love Gaming</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
