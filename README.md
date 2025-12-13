@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkalakeshhari satapathy</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkalakeshari-satapathy2004&label=Profile%20views&color=0e75b6&style=flat" alt="utkalakeshari-satapathy2004" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkalakeshari-satapathy2004&label=Profile%20views&color=0e75b6&style=flat" alt="utkalakeshari-satapathy2004" /> </p> -->
 <ul>
 <li> 📫 How to reach me <a href="mailto:satapathykeshariutkala@gmail.com"> satapathykeshariutkala@gmail.com</a></li>
 <br>
