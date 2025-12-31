@@ -16,6 +16,4 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkalakeshari-satapathy2004&show_icons=true&locale=en&layout=compact" alt="utkalakeshari-satapathy2004" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkalakeshari-satapathy2004&show_icons=true&locale=en" alt="utkalakeshari-satapathy2004" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkalakeshari-satapathy2004&" alt="utkalakeshari-satapathy2004" /></p>
